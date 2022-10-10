@@ -2,4 +2,5 @@ this is a test txt of git-demo1
 creat the txt!--master branch modify!
 this is second modify!--hot-fix modify!
 GitHub modify!
-aaaaaa--modified by dongfang 
+aaaaaa--modified by dongfang
+bbbbbb--modified by bendiku
